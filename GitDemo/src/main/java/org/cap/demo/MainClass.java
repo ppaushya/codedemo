@@ -5,6 +5,7 @@ public class MainClass {
 	public static void main(String[] args) {
 
 		System.out.println("Hello World in Git!!!");
+		show();
 		greeting();
 	}
 
@@ -12,5 +13,9 @@ public class MainClass {
 	public static void greeting() {
 		System.out.println("Hello!");
 		System.out.println("Have a nice day!");
+	}
+	
+	public static void show() {
+		System.out.println("show greeting!");
 	}
 }
