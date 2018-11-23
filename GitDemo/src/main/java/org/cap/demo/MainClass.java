@@ -19,6 +19,7 @@ public class MainClass {
 	
 	public static void show() {
 		System.out.println("show greeting!");
+		System.out.println("show greeting!");
 	}
 	
 	public static void diplay() {
