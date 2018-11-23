@@ -8,6 +8,7 @@ public class MainClass {
 		show();
 		greeting();
 		diplay();
+		meraMethod();
 		
 	}
 
@@ -27,6 +28,6 @@ public class MainClass {
 	
 	public static void diplay() {
 		
-		System.out.println("Hi!! Mr. Ketli...");
+		System.out.println("Hi!! Mr. Ketli...from my side");
 	}
 }
