@@ -8,6 +8,7 @@ public class MainClass {
 		show();
 		greeting();
 		diplay();
+		meraMethod();
 		
 	}
 
@@ -19,6 +20,10 @@ public class MainClass {
 	
 	public static void show() {
 		System.out.println("show greeting!");
+	}
+	
+	public static void meraMethod() {
+		System.out.println("Yeh Mera Method hai!");
 	}
 	
 	public static void diplay() {
