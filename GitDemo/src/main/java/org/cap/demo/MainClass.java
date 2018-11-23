@@ -7,6 +7,8 @@ public class MainClass {
 		System.out.println("Hello World in Git!!!");
 		show();
 		greeting();
+		diplay();
+		
 	}
 
 	
@@ -19,7 +21,8 @@ public class MainClass {
 		System.out.println("show greeting!");
 	}
 	
-	public static void method1() {
-		System.out.println("Method updated by GJ");
+	public static void diplay() {
+		
+		System.out.println("Hi!! Mr. Ketli...");
 	}
 }
