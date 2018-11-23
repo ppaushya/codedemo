@@ -18,4 +18,8 @@ public class MainClass {
 	public static void show() {
 		System.out.println("show greeting!");
 	}
+	
+	public static void method1() {
+		System.out.println("Method updated by GJ");
+	}
 }
