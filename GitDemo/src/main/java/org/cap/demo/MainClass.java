@@ -25,6 +25,7 @@ public class MainClass {
 	
 	public static void meraMethod() {
 		System.out.println("Yeh Mera Method hai!");
+		System.out.println("Yeh Mera Method hai!");
 	}
 	
 	public static void diplay() {
