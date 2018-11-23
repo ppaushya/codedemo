@@ -21,6 +21,10 @@ public class MainClass {
 		System.out.println("show greeting!");
 	}
 	
+	public static void meraMethod() {
+		System.out.println("Yeh Mera Method hai!");
+	}
+	
 	public static void diplay() {
 		
 		System.out.println("Hi!! Mr. Ketli...");
